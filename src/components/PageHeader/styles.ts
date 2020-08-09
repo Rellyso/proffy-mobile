@@ -18,8 +18,8 @@ const styles = StyleSheet.create({
         fontSize: 24,
         lineHeight: 32,
         maxWidth: 160,
-        marginVertical: 140
-    }
+        marginVertical: 40
+    },
 });
 
 export default styles;
